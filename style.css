@@ -1,0 +1,39 @@
+
+    body {
+        background: antiquewhite;
+        
+    }
+
+    h1 {
+        color: antiquewhite;
+        text-align: center;
+        border: solid #414141;
+        background: #414141;
+        margin: 10px;
+    }
+
+    h2 {
+        color: #414141;
+        margin: 10px;
+    }
+
+    p {
+        margin: 0 auto;
+    }
+
+    img {
+        float:left;
+        margin: 10px;
+        
+    }
+
+    .aboutme {
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+    .contact {
+        float: right;
+        
+        margin: 10px;
+    }
